@@ -5,6 +5,7 @@ const StyledDropDown = styled.div`
     width: 150px;
     background-color: #fff;
     position: absolute;
+    z-index: 10;
     display: none;
     border-radius: 2px;
     border: 1px solid var(--text-secondary);

@@ -9,7 +9,7 @@ const StyledHeaderStats = styled.div`
     justify-content: space-around;
     /* padding: 10px 0; */
     padding: 10px 30px;
-    gap: 5px;
+    gap: 10px;
     .element{
         display: flex;
         flex-direction: column;
